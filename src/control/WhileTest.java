@@ -1,5 +1,5 @@
 //: control/WhileTest.java
-package control;
+
 
 public class WhileTest {
 	static boolean condition() {

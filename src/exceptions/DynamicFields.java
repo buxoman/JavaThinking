@@ -1,4 +1,4 @@
-package exceptions;
+
 
 @SuppressWarnings("serial")
 class DynamicFieldsException extends Exception {}

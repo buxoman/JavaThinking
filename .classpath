@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry excluding="control/" kind="src" path="src"/>
+	<classpathentry excluding="control/|object/|control/|initialization/|exceptions/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/object"/>
+	<classpathentry kind="src" path="src/control"/>
+	<classpathentry kind="src" path="src/initialization"/>
+	<classpathentry kind="src" path="src/exceptions"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
