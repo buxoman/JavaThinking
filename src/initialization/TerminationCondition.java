@@ -1,4 +1,4 @@
-package initialization;
+
 
 class Book {
 	boolean checkedOut = false;

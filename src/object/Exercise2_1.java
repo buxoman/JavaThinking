@@ -1,4 +1,4 @@
-package object;
+
 
 public class Exercise2_1 {
 	int i;

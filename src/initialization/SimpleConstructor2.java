@@ -1,4 +1,4 @@
-package initialization;
+
 
 class Rock2 {
 	Rock2(int i) {
